@@ -22,6 +22,16 @@ export default {
 			type: 'text',
 		},
 		{
+			name: 'twitter',
+			title: 'Twitter',
+			type: 'url',
+		},
+		{
+			name: 'store',
+			title: 'Store Link',
+			type: 'url',
+		},
+		{
 			name: 'images',
 			title: 'Images',
 			type: 'array',
